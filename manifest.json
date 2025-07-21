@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "MrSearch",
+  "version": "1.0",
+  "description": "Ένα απλό Firefox extension για δοκιμές.",
+  "icons": {
+    "48": "assets/icons/48.png"
+  },
+  "permissions": ["storage"],
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "assets/icons/48.png"
+    }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "mrsearch@alexanstagr"
+    }
+  }
+}
