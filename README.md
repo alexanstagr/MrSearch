@@ -1,4 +1,7 @@
-### MrSearch
+
+![](https://raw.githubusercontent.com/alexanstagr/MrSearch/refs/heads/main/cover.png)
+
+
 
 Lightweight and fast browser extension that allows users to perform web searches using different search engines by simply typing a predefined trigger keyword into an input field.
 
